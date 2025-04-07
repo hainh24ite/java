@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <author-list>
+        
+ <author>
+            <nickname>mai lam</nickname>
+            <fullname>mai the lam</fullname>
+            <email>lam@gmail.com</email>
+            <address>nghe an</address>
+            <birthday>03.05.2005</birthday>
+        </author> <author>
+            <nickname>nguyen hai</nickname>
+            <fullname>nguyen van hai</fullname>
+            <email>hai@gmail.com</email>
+            <address>nghe an</address>
+            <birthday>01.02.2001</birthday>
+        </author>    </author-list>
+    <book-list>
+        
+ <book>
+            <title>lam</title>
+            <nickname>lam mai</nickname>
+            <price>10000.0</price>
+            <nxb>aptech</nxb>
+            <desciption>it co ban</desciption>
+        </book>
+<book>
+            <title>hai mai</title>
+            <nickname>hai hai</nickname>
+            <price>20000.0</price>
+            <nxb>aptech2</nxb>
+            <desciption>it nang cao</desciption>
+        </book>
+<book>
+            <title>haihai</title>
+            <nickname>haihaihai</nickname>
+            <price>400000.0</price>
+            <nxb>aptecch3</nxb>
+            <desciption>c++</desciption>
+        </book>
+    </book-list>
+</library>
