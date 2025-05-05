@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NOPBAITAP.iml" filepath="$PROJECT_DIR$/.idea/NOPBAITAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readfile/readfile.iml" filepath="$PROJECT_DIR$/readfile/readfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sinhvienVKU/sinhvienVKU.iml" filepath="$PROJECT_DIR$/sinhvienVKU/sinhvienVKU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml/xml.iml" filepath="$PROJECT_DIR$/xml/xml.iml" />
+    </modules>
+  </component>
+</project>
